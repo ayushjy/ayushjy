@@ -1,18 +1,14 @@
 ![logo](https://github.com/ayushjy/ayushjy/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Jyoti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate AI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushjy&label=Profile%20views&color=0e75b6&style=flat" alt="ayushjy" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **AI Development**
 
-- 🌱 I’m currently learning **Express.js**
-
-- 💬 Ask me about **Frontend,I am happy to help**
+- 💬 Ask me about **AI,I am happy to help**
 
 - 📫 How to reach me **ayushjyoti.dev@gmail.com**
-
-- ⚡ Married to **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
